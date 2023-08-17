@@ -11,7 +11,7 @@ Esta API fornece a ponte entre o site WeFly e o banco de dados, permitindo a bus
 ## 🖥️ Instalação e Execução
 
 1. Clone este repositório:
-`git clone [link-do-repositorio]`
+`git clone https://github.com/gustavoxxgg/API-Wefly.git`
 
 2. Navegue até a pasta do projeto:
 `cd nome-da-pasta`
